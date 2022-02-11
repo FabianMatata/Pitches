@@ -2,6 +2,7 @@
 ## Author
 Fabian Matata
 ## Description
+An application that allows users to pitch ideas and allow other users to vote on them and leave comments giving feedback on them.
 ## Live Page
 https://fabianmatata.github.io/pitches/
 
